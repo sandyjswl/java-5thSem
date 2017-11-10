@@ -1,4 +1,4 @@
-Output for Matrix:
+# Output for Matrix:
 
 Enter  Size of Matrix 1: 3
 
@@ -23,14 +23,14 @@ After Subtraction
  
  -4 -6 -8
  
- Output for Shape:
+ # Output for Shape:
  javac Shape1.java
  
  java Shape1 9 18 27
  
 The Volume is 4374.0
 
-Output for Sorting:
+# Output for Sorting:
 
 ENter 5 Integers:  19 28 1 69 3
 
