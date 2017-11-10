@@ -1,10 +1,10 @@
-Output for AlphabetReorder/ Alphabet Sorting:
+# Output for AlphabetReorder/ Alphabet Sorting:
 
 Enter A String : hello world
 
 Answer : dehllloorw
 
-Output for FullName:
+# Output for FullName:
 
 Enter First Name : Sachin
 
@@ -16,13 +16,13 @@ Enter Middle Name :Ramesh
 
 The Full Name  is:  Sachin Ramesh Tendulkar
 
-Output for Palindrome:
+# Output for Palindrome:
 
 Enter A String : madam
 
 The String is Palindrome
 
-Output for StringReverse:
+# Output for StringReverse:
 
 Enter a String : hello world
 
