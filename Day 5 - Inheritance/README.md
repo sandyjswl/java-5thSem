@@ -1,4 +1,4 @@
-Output for Database:
+# Output for Database:
 
 Enter the Employee Code, Name and Address: 8 Sandeep Nagrakata
 
@@ -25,7 +25,7 @@ The Employee Address is Nagrakata
 The Engineer Income is 1000
 
 
-Output for planAbstract:
+# Output for planAbstract:
 
 Enter the Rate: 150
 
