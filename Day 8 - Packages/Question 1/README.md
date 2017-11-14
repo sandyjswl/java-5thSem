@@ -1,4 +1,4 @@
-Output:-
+# Output:-
 
 Enter Two Numbers: 
 
